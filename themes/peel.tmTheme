@@ -66,6 +66,8 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <dict>
                 <key>foreground</key>
                 <string>#585146</string>
+                <key>fontStyle</key>
+                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -195,7 +197,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string>italic</string>
                 <key>foreground</key>
                 <string>#D6E1C7</string>
             </dict>
@@ -234,7 +236,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string>italic</string>
                 <key>foreground</key>
                 <string>#D3643B</string>
             </dict>
@@ -247,7 +249,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string>italic</string>
                 <key>foreground</key>
                 <string>#D3643B</string>
             </dict>
